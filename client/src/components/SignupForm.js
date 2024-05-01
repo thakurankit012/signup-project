@@ -99,7 +99,6 @@ const SignupForm = () => {
           {formData.errors.password && <div className="error-message">{formData.errors.password}</div>}
         </div>
 
-        {/* Confirm Password */}
         <div>
           <label className="signup-label">Confirm Password:</label>
           <input
