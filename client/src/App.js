@@ -6,7 +6,7 @@ import PostListScreen from './components/PostListScreen';
 const App = () => {
   return (
     <div>
-      {/* Render your PostListScreen component */}
+     
       <SignupForm/>
       <PostListScreen />
     </div>
